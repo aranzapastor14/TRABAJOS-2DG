@@ -1,6 +1,6 @@
 # TRABAJOS-2DG
 
-*[LLOCWEB]()
-*[CMYK]()
-*[BROOM]
-*[MAQUETACIO]()
+* [LLOCWEB]()
+* [CMYK]()
+* [BROOM]()
+* [MAQUETACIO]()
