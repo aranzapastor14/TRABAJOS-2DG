@@ -4,4 +4,4 @@
 * [CMYK](https://aranzapastor14.github.io/CMYK/)
 * [BROOM](https://aranzapastor14.github.io/Broom/)
 * [MAQUETACIO](https://aranzapastor14.github.io/Maquetacion/)
-* [TARJETAS] (https://aranzapastor14.github.io/Tarjetas/)
+* [TARJETAS](https://aranzapastor14.github.io/Tarjetas/)
